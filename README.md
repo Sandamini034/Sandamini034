@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honali Sandamini</h1>
 <h3 align="center">student of university of Sri Jayewardenepura</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning machine learning
 
 - 📫 How to reach me **hsandaminih@gmail.com**
 
