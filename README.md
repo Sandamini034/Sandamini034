@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noreferrer">LinkedIn</a> •
-  <a href="https://github.com/YOUR_GITHUB" target="_blank" rel="noreferrer">GitHub</a> •
-  <a href="https://www.twitter.com/YOUR_TWITTER" target="_blank" rel="noreferrer">Twitter</a>
+  <a href="linkedin.com/in/honali-hettiarachchi-7a7b91347" target="_blank" rel="noreferrer">LinkedIn</a> •
+  <a href="https://github.com/Sandamini034" target="_blank" rel="noreferrer">GitHub</a> •
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
