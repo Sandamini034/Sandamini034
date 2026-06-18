@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sandamini034
+title: Honali Sandamini - GitHub Pages
 ---
 
 # Hi 👋, I'm Honali Sandamini
