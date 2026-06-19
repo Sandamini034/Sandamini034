@@ -5,6 +5,10 @@
 - 💻 I enjoy working with **C++, Java, MATLAB, Node.js, JavaScript, CSS, MySQL, Python, and Machine Learning libraries**  
 - 📫 Reach me at: <a href="mailto:hsandaminih@gmail.com">hsandaminih@gmail.com</a>  
 
+<a href="https://sandamini034.github.io/Sandamini034/">
+  🌐 Portfolio
+  </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="linkedin.com/in/honali-hettiarachchi-7a7b91347" target="_blank" rel="noreferrer">LinkedIn</a> •
@@ -46,9 +50,5 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> 
   </a> 
-
-  <a href="https://sandamini034.github.io/Sandamini034/">
-  🌐 Portfolio
-  </a>
  
 </p>
