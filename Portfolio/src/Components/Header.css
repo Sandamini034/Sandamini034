@@ -1,0 +1,54 @@
+.Container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-Index: 1;
+}
+
+.Header{
+    width:450px;
+    height:400px;
+    border-radius: 50%;
+    border:solid 10px rgba(255,0,0,0.7);
+    position:absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:inset 0 0 0 5px rgba(255,0,0,0.3);
+}
+
+.InsideMenu{
+    width:150px;
+    height:120px;
+    border-radius:50%;
+    border:10px solid rgba(255,0,0,0.7);
+    box-shadow:0 0 0 5px rgba(255,0,0,0.3);
+}
+
+.Section1,.Section2,.Section3,.Section4{
+    position:absolute;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Section1{
+    top:25px;
+}
+.Section2{
+    right:25px;
+}
+.Section3{
+    bottom:25px;
+}
+.Section4{
+    left:25px;
+}
+
+.Section1, .Section2, .Section3, .Section4 {
+   
+}
